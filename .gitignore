@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Runtime output
+results/
+runtime_jobs/
+runtime_targets/
+generated_pocs/
+*.log
+
+# Local env
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
