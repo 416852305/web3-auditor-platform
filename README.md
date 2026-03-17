@@ -58,3 +58,10 @@ PORT=8001 python3 server.py
 Then open:
 
 `http://127.0.0.1:8001`
+
+## Operator Docs
+
+See:
+
+- `SETUP_AND_TROUBLESHOOTING.md`
+- `L5_Auditor/TEMPLATE_COVERAGE.md`
